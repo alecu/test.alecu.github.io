@@ -9,7 +9,7 @@ This is my demo of how you can use your device running the snappy Ubuntu Core to
 
 tl;dr, here’s the demo video:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/G4HYuvcE_QI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen> </iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/MSEjZq_Qp6M?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen> </iframe>
 
 https://goo.gl/photos/ezGiAokLG7HpLyoC9
 
